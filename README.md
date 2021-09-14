@@ -1,13 +1,13 @@
 #!/bin/bash
-####################################
-#   Monet - Monitor de Internet    #
-#                                  #
-#   upstream: gnew  | date: 2021   #
-#   email: magnoerdna@gmail.com     #
-#                                  #
-#   deps: speedtest-cli            #
-#   licence: GPL3+                 #
-####################################
+########################################
+#   Monet - Monitor de Internet        #
+#                                      #
+#   upstream: maguiinn  | date: 2021   #
+#   email: magnoerdna@gmail.com        #
+#                                      #
+#   deps: speedtest-cli                #
+#   licence: GPL3+                     #
+########################################
 
 DEP=$(dpkg --get-selections | grep speedtest-cli | wc -l)
 ARQUIVO="$HOME/status_conexao.csv"
