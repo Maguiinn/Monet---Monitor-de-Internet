@@ -1,5 +1,3 @@
-# Monet---Monitor-de-Internet
-Script de monitoramento
 #!/bin/bash
 ####################################
 #   Monet - Monitor de Internet    #
