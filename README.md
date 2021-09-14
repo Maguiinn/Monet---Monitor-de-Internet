@@ -2,8 +2,8 @@
 ####################################
 #   Monet - Monitor de Internet    #
 #                                  #
-#   upstream: gnew  | date: 2018   #
-#   email: gnewlinux@gmail.com     #
+#   upstream: gnew  | date: 2021   #
+#   email: magnoerdna@gmail.com     #
 #                                  #
 #   deps: speedtest-cli            #
 #   licence: GPL3+                 #
